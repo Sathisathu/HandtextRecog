@@ -1,7 +1,3 @@
-Here's a concise `README.md` file focused on the single command `python predict.py`, assuming it's the primary way to interact with the project for prediction.
-
----
-
 # Handwritten Text Recognition
 
 This project provides a system for recognizing handwritten text from images.
