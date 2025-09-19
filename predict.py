@@ -67,7 +67,7 @@ def ctc_decode(output_probs):
 # ---------------- Prediction ----------------
 if __name__ == "__main__":
     # Replace with your image path
-    img_path = "my_handwriting/sample3.png"  # img path
+    img_path = "my_handwriting/imgFromTrainData.png"  # img path
 
     img = preprocess_image(img_path).to(DEVICE)
 
